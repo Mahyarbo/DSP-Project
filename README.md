@@ -113,3 +113,7 @@ If you use this work, please cite:
 ## Author
 
 This project is developed for educational and research purposes in Digital Signal Processing (DSP).
+
+## About Project 
+
+https://github.com/Mahyarbo/DSP-Project/issues?q=is%3Aissue%20state%3Aclosed
