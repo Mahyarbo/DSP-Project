@@ -92,7 +92,7 @@ The program generates:
 
 ## Notes
 
-This is an independent implementation based on the published paper.
+This is an independent implementation based on the referenced paper.
 No original code or figures from the paper are included.
 
 ---
